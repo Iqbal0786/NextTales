@@ -20,7 +20,7 @@ export default function Navbar() {
       <nav className="fixed top-0 left-0 right-0   z-20 w-full flex flex-wrap items-center justify-between py-6 bg-gray-900 text-gray-200 shadow-lg navbar navbar-expand-lg navbar-light">
         <div className="container-fluid w-full flex flex-wrap items-center justify-between px-6">
           <Link href={"/"}>
-            <p>Nextjs Blog</p>
+            <p>NextTales</p>
           </Link>
 
           {/* <!-- Right elements --> */}
